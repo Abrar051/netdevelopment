@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2012\Projects\netapplication\netapplication\bin\Debug\netapplication.exe.config
+c:\users\dell\documents\visual studio 2012\Projects\netapplication\netapplication\bin\Debug\netapplication.exe
+c:\users\dell\documents\visual studio 2012\Projects\netapplication\netapplication\bin\Debug\netapplication.pdb
+c:\users\dell\documents\visual studio 2012\Projects\netapplication\netapplication\obj\Debug\netapplication.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2012\Projects\netapplication\netapplication\obj\Debug\netapplication.exe
+c:\users\dell\documents\visual studio 2012\Projects\netapplication\netapplication\obj\Debug\netapplication.pdb
